@@ -1,4 +1,4 @@
-# [Nonsense](https://github.com/butunghd0-max/nonsense-test)
+# blah blah blah demo
 
 Math paper generator lol, inspired by [mathgen](https://thatsmathematics.com/mathgen/).
 
